@@ -1,1 +1,3 @@
 https://github.com/SciLifeLab/NGI-RNAseq/blob/master/main.nf
+
+Multi-QC
